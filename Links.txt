@@ -1,0 +1,13 @@
+Links naar informatie en projecten
+
+Info over MOSS
+C:\DATA\Diversen\Auditfiles\MOSS
+
+Lees_XML, de uitgewerkte XSD:
+C:\DATA\KlntData\vraag_Fred_v_Ipenburg_ACL_script_MOSS\Werk\werk_analsye_Moss\XML in Excel - Lees XML-Moss.xlsm
+
+Xml_in_ACL, ACL script dat XSD genereert uit bovenstaande XLS(M)
+C:\DATA\KlntData\vraag_Fred_v_Ipenburg_ACL_script_MOSS\Werk\werk_XML_in_ACL\Xml_in_Acl_v20180110_algemeen.acl
+
+Opmerking:
+De bestanden onder 'klantdata' moeten verhuizen naar 'Ontwikkel'
