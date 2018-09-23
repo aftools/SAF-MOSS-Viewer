@@ -1,0 +1,2 @@
+demo files in:
+C:\Users\Johan\Documents\NetBeansProjects\AfViz\afData\mt940\demoFiles
